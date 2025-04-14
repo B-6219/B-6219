@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him .
-- 🌟Currently working for Inventory Management Systeem
+- 🌟Currently working on  🚩 Inventory Management System
+                          🚩 Hospital Management System
+                          🚩 Personal Portfolio
+                          🚩 Hotel Management System
+  
 - ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️
 
 <!---
