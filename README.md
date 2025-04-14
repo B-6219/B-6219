@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him .
+- 🌟Currently working for Inventory Management Systeem
 - ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️
 
 <!---
