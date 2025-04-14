@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B-6219 || Future Cybersecurity Expert 
+- 👋 Hi, I’m @Brian_kamau || Future Cybersecurity Expert 
 - 👀 I’m interested in Everything Related To Tech💻.
 - 🌱 I’m currently learning Django😭, Python🤗 and JavaScript 🌚
 - 💞️ I’m looking to collaborate on 
