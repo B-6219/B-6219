@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Brian_kamau || Future Cybersecurity Expert 
-- 👀 I’m interested in Everything Related To Tech💻.
-- 🌱 I’m currently learning Django😭, Python🤗 and JavaScript 🌚
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him .
-- 🌟Currently working on  🚩 Inventory Management System
-                          🚩 Hospital Management System
-                          🚩 Personal Portfolio
-                          🚩 Hotel Management System
-  
-- ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️
 
 # 💫 About Me:
 - 👋 Hi, I’m @Brian_kamau || Future Cybersecurity Expert <br>- 👀 I’m interested in Everything Related To Tech💻.<br>- 🌱 I’m currently learning Django😭, Python🤗 and JavaScript 🌚<br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me ...<br>- 😄 Pronouns: He/Him .<br>- 🌟Currently working on  🚩 Inventory Management System<br>                          🚩 Hospital Management System<br>                          🚩 Personal Portfolio<br>                          🚩 Hotel Management System<br>  <br>- ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️<br>
