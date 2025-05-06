@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Brian_kamau || Start up manager Brian Tech <br>- 👀 I’m interested in Everything Related To Tech💻.<br>- 🌱 I’m currently learning Django😭, Python🤗 and JavaScript 🌚<br>- 💞️ I’m looking to collaborate on<br>- 📫 How to reach me https://www.instagram.com/is_that_br1an?igsh=MXUwZ2QybHJqYTFpNg==<br>- 😄 Pronouns: He/Him .<br>- 🌟Currently working on 🚩 Inventory Management System<br>🚩 Hospital Management System<br>🚩 Personal Portfolio<br>🚩 Hotel Management System<br><br>- ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️
+👋 Hi, I’m @Brian_kamau || Start up manager Brian Tech <br>- 👀 I’m interested in Everything Related To Tech💻.<br>- 🌱 I’m currently learning Django😭, Python🤗 and JavaScript 🌚<br>- 💞️ I’m looking to collaborate on<br>- 📫 How to reach me https://www.instagram.com/is_that_br1an?igsh=MXUwZ2QybHJqYTFpNg==<br>- 😄 Pronouns: He/Him .<br>- 🌟Currently working on - ⚡ Fun fact:Tech is my Thing😊 Learning never stops✌️
 
 
 ## 🌐 Socials:
