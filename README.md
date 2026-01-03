@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=B-6219&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=B-6219&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
