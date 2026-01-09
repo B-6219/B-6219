@@ -31,6 +31,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=B-6219&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-6219&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B-6219&theme=chartreuse_dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=B-6219&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
